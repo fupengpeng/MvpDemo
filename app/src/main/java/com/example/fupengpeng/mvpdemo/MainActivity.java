@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity implements MainView{
     private List<String> mData;
     private ArrayAdapter<String> adapter;
 
+
+    //daima xiugai 
     /**
      * 视图与业务
      * <p>
